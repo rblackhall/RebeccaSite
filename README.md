@@ -1,2 +1,0 @@
-# RebeccaSite
-Created with CodeSandbox
